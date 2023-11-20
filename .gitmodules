@@ -1,0 +1,6 @@
+[submodule "vendor/Appazoid"]
+	path = vendor/Appazoid
+	url = https://github.com/Byte-White/Appazoid/
+[submodule "Steel"]
+	path = Steel
+	url = https://github.com/Byte-White/Steel.git
